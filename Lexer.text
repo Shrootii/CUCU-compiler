@@ -1,0 +1,8 @@
+DATATYPE: int
+WORD: main
+CURVE_L: (
+CURVE_R: )
+CURLY_L: {
+DATATYPE: char
+WORD: name
+SEMICOLON: ;
